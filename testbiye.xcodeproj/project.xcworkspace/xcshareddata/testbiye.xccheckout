@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>37DB2460-7104-40B7-9B9A-6F756FB8A6B8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>testbiye</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CCE6D95C-D62D-4744-9684-91DA140F7F87</key>
+		<string>https://github.com/qupengbin/testbiye.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>testbiye.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CCE6D95C-D62D-4744-9684-91DA140F7F87</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/qupengbin/testbiye.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CCE6D95C-D62D-4744-9684-91DA140F7F87</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CCE6D95C-D62D-4744-9684-91DA140F7F87</string>
+			<key>IDESourceControlWCCName</key>
+			<string>testbiye</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -7,15 +7,25 @@
 //
 
 #import "AppDelegate.h"
+#import "MainViewController.h"
+#import "MHNavViewController.h"
+
+AppDelegate *app;
 
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+    app = self;
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
+    
+    MainViewController *mainViewController = [[MainViewController alloc] init];
+    MHNavViewController *nav = [[MHNavViewController alloc] initWithRootViewController:mainViewController];
+    self.window.rootViewController = nav;
+    
     return YES;
 }
 
